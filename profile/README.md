@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://swarmd.io/?utm_source=github&utm_medium=social&utm_campaign=launch" target="_blank">
-    <img src="https://swarmd.io/swarmd.svg" height="128" width="128" />
+    <img src="https://swarmd.io/swarmd.svg" height="64" width="64" />
   </a>
 
   <p>
